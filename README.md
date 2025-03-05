@@ -1,9 +1,9 @@
 # Valutakursberegning av Erasmus+-stipender
 Valutakursberegning for utbetaling av Erasmus+-stipend skoleåret 2024/2025 ved Enhet for internasjonale relasjoner på NTNU.
 
-Programmet kjøres på lokal datamaskin enten som en .exe fil (nedlasting finner du under "Releases"), eller ved å kjøre .py-filen du kan laste ned ovenfor. Sistnevnte krever program til å kunne kjøre Python-filer, samt installere avhengigheter (dependencies) programmet bruker som pandas, tkinter, requests, io, PyInstaller om dette ikke allerede er installert. Ved "kjøring" av program uavhengig om det er .exe eller .py, se stegene nedenfor.
+Programmet kjøres på lokal datamaskin enten som en .exe fil (nedlasting finner du under "Releases"), eller ved å kjøre .py-filen du kan laste ned ovenfor. Sistnevnte krever program til å kunne kjøre Python-filer, samt installere avhengigheter (dependencies) programmet bruker som pandas, tkinter, requests, io, PyInstaller om dette ikke allerede er installert. Ved "kjøring" av program, uavhengig om det er .exe eller .py, se stegene nedenfor.
 
-Det ligger også en testfil: ``test.xlsx`` du kan selv teste programmet på.
+Det ligger også en testfil: ``test.xlsx``, du kan selv teste programmet på.
 
 
 ## Hvordan funker stipendutbetaling ved NTNU?
